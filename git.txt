@@ -1,0 +1,27 @@
+ 
+  status :gives all list of fillss    
+staging:selecting files whose backup needs to be taken 
+     commit:finally takes the backup.
+
+	git init:creates git repository	
+	
+  	staging :in staging we will select files whose back up needs to be taken
+  
+         git status:which gives us the list of file in our project.
+
+	git add: selection of file whose back up needs to be taken
+	
+	git commit : which finally takes the backup
+	
+	git log : which gives log history
+	
+	git checkout:which helps me to rollback my code to the required version of code	
+
+	git branch :it will list all branch names
+
+	git checkout  -b newbranch: it will create new branch
+	
+	git add .: it will add all the files in git repository
+	
+	
+   
