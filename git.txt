@@ -22,6 +22,14 @@ staging:selecting files whose backup needs to be taken
 	git checkout  -b newbranch: it will create new branch
 	
 	git add .: it will add all the files in git repository
+
+
+git :localrepository
 	
+github:online repository
+
+git config --global user.email "email"
+
+hkkn,,,.nm m ,,m
 	
    
